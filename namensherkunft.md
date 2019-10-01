@@ -73,6 +73,8 @@ Eine weitere (laienhafte) Interpretation der Bedeutung des Ortsnamens *Katerbow*
 > - Andererseit weist man auf die Zusammensetzung aus den deutschen Wörtern “Katen (Hütte) und “Bau” hin.
 
 ## Literatur
+Friedrich Wilhelm August Bratring (1799): [Die Grafschaft Ruppin in historischer, statistischer und geographischer Hinsicht: Ein Beitrag zur Kunde der Mark Brandenburg](http://books.google.de/books?id=edQAAAAAcAAJ&pg=PA576&lpg=PA576&dq=Katerbow&source=bl&ots=GX36qx_K9g&sig=6lMzHZB_AZr1n3jGfkRnD6OMKo8&hl=de&sa=X&ei=dhTTUI3XI5HHtAbpiIHgDw&sqi=2&ved=0CGUQ6AEwCQ#v=onepage&q&f=false).
+
 Reinhard E. Fischer (2005): Die Ortsnamen der Länder Brandenburg und Berlin. Alter – Herkunft – Bedeutung. be.bra Wiss.-Verlag, Berlin, 2005, ISBN: 978-3-937233-30-7.
 
 Elzbieta Foster (1998): Brandenburgisches Namenbuch. Teil 11: Die Ortsnamen des Landes Ruppin. Mit einem siedlungsgeschichtlichen Beitrag von Christa Plate
