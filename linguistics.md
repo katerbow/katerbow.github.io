@@ -1,5 +1,5 @@
 # Language Variation and Acquisition
-In the early days I started my academic career in linguistics, more precisely my researched was focused on the acquisition of language variation. My doctoral thesis is a empirical study on the acquisition of phonetic-phonological variation of the moselle-franconian regional language in Germany. The publications below contains the outcomes of my research in linguistics.
+In the early days I started my academic career in linguistics, more precisely my research was focused on the acquisition of language variation. My doctoral thesis is a empirical study on the acquisition of phonetic-phonological variation of the moselle-franconian regional language in Germany. The publications below contains the outcomes of my research in linguistics.
 
 ### Publications
 * Gunther De Vogelaer, Matthias Katerbow (2017): [Acquiring Sociolinguistic Variation](https://benjamins.com/catalog/silv.20). Studies in Language Variation, 20. Benjamins, Amsterdam, ISBN 9789027233875.
