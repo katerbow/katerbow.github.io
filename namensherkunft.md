@@ -26,21 +26,34 @@ Die finale Silbe -au(e) in Ortsnamen der Mark Brandenburg kann nach Fischer (200
 > 4. eine Kanzleiform des Namens. Das -*au* wurde seit dem 16. Jahrhundert als typisches Ortsnamenmerkmal an Namen angefügt, vergleichbar -*a* und -*ow*: *Altenau*, *Altnau*, *Krugau*, *Lieskau*, *Lugau*.
 > 5. andere Herkunft in Einzelfällen: *Dubrau*, *Prenzlau*, *Wustrau* (auslautendes -*av*- oder -*ov*- bei slawischen Namen), Markau (übertragener Name).
 
-### Diachrone Graphie-Varianten
+### Diachrone Graphie-Varianten des Ortsnamens
 Nach Foster 1998, S. 75, Artikel 139:
-> **Katerbow** (Ostprignitz-Ruppin/Neuruppin), Dorf nw. Neuruppin.
-> 1358 tu Katerbowe (MUB XIV 285)
-> 1427 katherbow (A I 182 Or.)
-> 1495 Katerpaw (A IV 142 Or.)
-> 1540 Catrebow (Gaterbow) (A VII 272 Or.)
-> 1614 in Katerbow (Bonin 248)
-> 1775 Caterbow (Büsching 44)
-> 1861 Katerbow (Katerbau) (Boeckh 210)
+> **Katerbow** (Ostprignitz-Ruppin/Neuruppin), Dorf nw. Neuruppin.<br>
+> 1358 tu Katerbowe (MUB XIV 285)<br>
+> 1427 katherbow (A I 182 Or.)<br>
+> 1495 Katerpaw (A IV 142 Or.)<br>
+> 1540 Catrebow (Gaterbow) (A VII 272 Or.)<br>
+> 1614 in Katerbow (Bonin 248)<br>
+> 1775 Caterbow (Büsching 44)<br>
+> 1861 Katerbow (Katerbau) (Boeckh 210)<br>
 
 Nach Hammer 1895, S. 26:
 > **Katerbow**,
-> 1491 Katerbouw
+> 1491 Katerbouw<br>
 > 1580 Catrebow und Gaterbow
+
+## Der Gewässername des Katerbower Sees
+Unweit südlich des Ortes Katerbow erstreckt sich der etwa 53ha große, 2km lange und max. 3m tiefe Katerbower See (Koordinaten: 52°58’47″N 12°39’28″E, Gewässernummer: 1462, [Google Maps](https://maps.google.de/?ie=UTF8&ll=52.982292,12.669725&spn=0.029507,0.077162&t=h&z=14&output=embed)). Der kleine See gehört zu den Ausläufern der Mecklenburgischen Seenplatte.
+
+Nach Foster (1998, S. 152) ist der See nach dem Ort benannt. Dabei sind die &bdquo;sind die verschiedenen Bezeichnungen für den See [interessant], vor allem in den ersten beiden Belegen, in denen der See auf indirekter Weise genannt wird&rdquo; (Foster 1998, S. 152). Diese sind in chronologischer Reihenfolge nach Foster (1998, S. 152):
+
+> 1358 see tu Katerbowe(MUB XIV 285),<br>
+> 1516 Item die Sehe zu Caterbow (A IV 419 Kop.),<br>
+> 1530 an den sehenn katterbu gelegen (A IV 453 Or.),<br>
+> 1590 die See Katerbow genandt (ER Ruppin fol. 235),<br>
+> 1692 auff dem Caterbowschen See (Bonin 304),<br>
+> 1772 Caterbau-See (Schirmeister 121),<br>
+> 1825 Der Katerbowsche See (UMbl. 1547)
 
 ### Die Silbe -*ow* im Namen *Katerbow*
 Wie es sich nun mit der finalen Silbe -*ow* in dem Ortsnamen *Katerbow* verhält, konnte bisher nicht eindeutig geklärt werden. Die synchrone und zumindest bis 1358 zurückgehende diachrone Graphie lässt allerdings hinsichtlich der Aussprache keine Silbentrennung vor -*ow* zu, sodass die finale Silbe im Ortsnamen immer -*bow* war. Folgt man dieser phonotaktischen Interpretation, dann wäre keine der oben genannten Interpretationsmöglichkeiten mehr möglich. Sodass sich eine andere Bedeutung des Namens finden lassen muss (siehe: Semantik des Ortsnamens).
@@ -56,19 +69,6 @@ Eine weitere (laienhafte) Interpretation der Bedeutung des Ortsnamens *Katerbow*
 > - Es soll ein slawischer Name sein, der soviel wie 'Raufplatz' bedeutet. Katerbow liegt an einem wichtigen Übergang zwischen dem Temnitz- und Klappgrabental und in den ältesten Zeiten mag in diesen Gegenden weidlich gerauft worden sein. Hat doch vom 9. bis 13. Jahrhundert ein steter Grenzkrieg zwischen Deutschen und Wenden stattgefunden und &bdquo;Das Gebiet von endlosen Fehden zwischen dem Grafen, Raufrittern, Städten und anderen feindlichen Parteien wild durchwogt gewesen&rdquo; Die Sage von der Riesenschlacht bei Netzeband weist wahrscheinlich auch auf jene Vorgänge hin, die sich in früherer Zeit hier abgespielt haben. Das ehemals sehr sumpfige Temnitztal, dessen schmalste Verbindung sich zwischen der heutigen Katerbower Mühle und dem Netzebander Dandkrug befand, war einst eine Völkerscheide zwischen Witzen und Obotriten, und es mag hier um diesen Übergang nach damaligen Begriffen eine gewaltige Völkerschlacht getobt haben.
 > - Nach einer anderen Leseart soll der Name aus “Katka” (eine Tracht Schläge) und  (“terebljuß”) gerauft oder gerittelt entstanden sein.
 > - Andererseit weist man auf die Zusammensetzung aus den deutschen Wörtern “Katen (Hütte) und “Bau” hin.
-
-## Der Gewässername Katerbower See
-Unweit südlich des Ortes Katerbow erstreckt sich der etwa 53ha große, 2km lange und max. 3m tiefe Katerbower See (Koordinaten: 52°58’47″N 12°39’28″E, Gewässernummer: 1462, [Google Maps](https://maps.google.de/?ie=UTF8&ll=52.982292,12.669725&spn=0.029507,0.077162&t=h&z=14&output=embed)). Der kleine See gehört zu den Ausläufern der Mecklenburgischen Seenplatte.
-
-Nach Foster (1998, S. 152) ist der See nach dem Ort benannt. Dabei sind die &bdquo;sind die verschiedenen Bezeichnungen für den See [interessant], vor allem in den ersten beiden Belegen, in denen der See auf indirekter Weise genannt wird&rdquo; (Foster 1998, S. 152). Diese sind in chronologischer Reihenfolge nach Foster (1998, S. 152):
-
-> 1358 see tu Katerbowe(MUB XIV 285),
-> 1516 Item die Sehe zu Caterbow (A IV 419 Kop.),
-> 1530 an den sehenn katterbu gelegen (A IV 453 Or.),
-> 1590 die See Katerbow genandt (ER Ruppin fol. 235),
-> 1692 auff dem Caterbowschen See (Bonin 304),
-> 1772 Caterbau-See (Schirmeister 121),
-> 1825 Der Katerbowsche See (UMbl. 1547)
 
 ## Literatur
 Reinhard E. Fischer (2005): Die Ortsnamen der Länder Brandenburg und Berlin. Alter – Herkunft – Bedeutung. be.bra Wiss.-Verlag, Berlin, 2005, ISBN: 978-3-937233-30-7.
