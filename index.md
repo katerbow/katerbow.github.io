@@ -1,3 +1,5 @@
+#1 Digital Turn &mdash; #2 Linguistics &mdash; #3 name origin
+
 # Digital Turn
 Digital technologies have a major impact on the workflows of science and the whole research lifecycle. The term **Digital Turn** encompasses all the changes and impacts relating to the use, application and dynamic development of digital technologies in science and research. I am particularly interested in **Research Software, Open Scholarship and Digital Infrastructures** for Science and Research. In the course of my work as a science manager I've worked with many different people on these topics which resulted in some publications.
 
