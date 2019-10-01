@@ -48,6 +48,8 @@ Nach Hammer 1895, S. 26:
 ### Der Gewässername des Katerbower Sees
 Unweit südlich des Ortes Katerbow erstreckt sich der etwa 53ha große, 2km lange und max. 3m tiefe Katerbower See (Koordinaten: 52°58’47″N 12°39’28″E, Gewässernummer: 1462, [Google Maps](https://maps.google.de/?ie=UTF8&ll=52.982292,12.669725&spn=0.029507,0.077162&t=h&z=14&output=embed)). Der kleine See gehört zu den Ausläufern der Mecklenburgischen Seenplatte.
 
+![Katerbower See](./assets/img/caterbowsche_see.png)
+
 Nach Foster (1998, S. 152) ist der See nach dem Ort benannt. Dabei sind die &bdquo;sind die verschiedenen Bezeichnungen für den See [interessant], vor allem in den ersten beiden Belegen, in denen der See auf indirekter Weise genannt wird&rdquo; (Foster 1998, S. 152). Diese sind in chronologischer Reihenfolge nach Foster (1998, S. 152):
 
 > 1358 see tu Katerbowe (MUB XIV 285),<br>
