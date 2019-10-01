@@ -1,4 +1,5 @@
-Digital technologies have a major impact on the workflows of science and the whole research lifecycle. The term "digital change" encompasses all the changes and impacts relating to the use, application and dynamic development of digital technologies in science and research. I am particularly interested in research software, Open Scholarship and Digital infrastructures for Science and Research. In the course of my work as a science manager I've worked with many different people on these topics which resulted in some publications.
+# Digital Turn
+Digital technologies have a major impact on the workflows of science and the whole research lifecycle. The term **Digital Turn** encompasses all the changes and impacts relating to the use, application and dynamic development of digital technologies in science and research. I am particularly interested in Research Software, Open Scholarship and Digital Infrastructures for Science and Research. In the course of my work as a science manager I've worked with many different people on these topics which resulted in some publications.
 
 ### Latest Publications
 * Matthias Katerbow, Michael Royeck, Andreas Raabe (2018): [DFG-Förderung und der digitale Wandel in den Wissenschaften - Ein Wegweiser zu Fördermöglichkeiten und Leitlinien](https://doi.org/10.1007/s00287-018-01135-0). Informatik Spektrum 41(6): 421-428. 
