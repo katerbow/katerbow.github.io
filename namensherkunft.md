@@ -3,7 +3,7 @@ Der Familienname *Katerbow* ist auf den Ortsnamen *Katerbow* zurückzuführen, i
 
 Für Familiennamen des Deutschen ist im Allgemeinen bekannt, dass die &bdquo;heutigen Kennzeichen der Familiennamen, daß sie gesetzlich geschützt sind … und daß sie vererbt werden&rdquo; (König 2001, S. 125), noch für das Mittelalter kaum zutreffen. Es lässt &bdquo;sich insgesamt sagen, daß die Zweinamigkeit (und in ihrer Folge der Brauch, Familiennamen zu führen) im Schrifttum süd- und westdt. Städte Anfang 12. Jh. sichtbar wird, … nach Norden und Osten fortschreitet und Anfang 15. Jh. im wesentlichen vollzogen ist&rdquo; (Kunze 1998, S. 61).
 
-## Der Ortsname Katerbow
+## Der Ortsname *Katerbow*
 Die auslautende Silbe *-ow*, gesprochen -[oː], kann auf einen slawischen Ursprung des Namens *Katerbow* hinweisen, allerdings kann es sich auch um die ursprünglich mittelniederdeutsche Silbe -*auwe*, mit der Bedeutung ‘Aue’ handeln (siehe auch: [Namen auf -ow](http://de.wikipedia.org/wiki/Namen_auf_-ow)). Das heißt, es lassen sich in der Mark Brandenburg einerseits Ortsnamen finden, die heute mit -*ow* geschrieben werden und auf eine slawische Silbe zurückgeführt werden können und andererseits lassen sich ebenso Ortsnamen nachweisen, die heute zwar ebenfalls mit -*ow* geschrieben werden, die aber nicht auf eine slawische Silbe sondern auf eine germanische Silbe zurückgeführt werden können.
 
 ### Herkunft der finalen Silbe -*ow*
@@ -29,7 +29,21 @@ Die finale Silbe -au(e) in Ortsnamen der Mark Brandenburg kann nach Fischer (200
 ### Die Silbe -*ow* im Namen *Katerbow*
 Wie es sich nun mit der finalen Silbe -*ow* in dem Ortsnamen *Katerbow* verhält, konnte bisher nicht eindeutig geklärt werden. Die synchrone und zumindest bis 1358 zurückgehende diachrone Graphie lässt allerdings hinsichtlich der Aussprache keine Silbentrennung vor -*ow* zu, sodass die finale Silbe im Ortsnamen immer -*bow* war. Folgt man dieser phonotaktischen Interpretation, dann wäre keine der oben genannten Interpretationsmöglichkeiten mehr möglich. Sodass sich eine andere Bedeutung des Namens finden lassen muss (siehe: Semantik des Ortsnamens).
 
+## Die Semantik des Ortsnamens *Katerbow*
+Nach Foster (1998, S. 192) handelt es sich bei dem Ortsnamen *Katerbow* um einen Namen,  der &bdquo;aus verschiedenen Gründen nicht klassifiziert werden konnte, obwohl … [er] eindeutig [ein] Name slawischer Herkunft&rdquo; ist. Die Autorin gibt an, dass &bdquo;[t]rotz relativ früher Überlieferung … der Name nicht befriedigend zu erklären&rdquo; (Foster 1998, S. 75) ist. Sie bietet folgende Grundformen an:
+
+> &bdquo;Gf. Aplb. *Kotarbov- ‚Dorf eines Kotarba’, zum PN aplb. *Kotarba, vgl. PN p. Kotarba, Koterba (Rospond SNSl 2, 382), č. Kotrba (Svoboda 195). Die PN werden von Rospond (ebd.) zu p. kotarba ‚Kopf’, č. Kotrba ‚großer Kopf’ gestellt. Das Auftreten des Appellativums scheint sich jedoch auf den tschechischen und südpolnischen Sprachraum zu beschränken.Vgl. ON p. Kotarby (SG 4, 941), FIN p. Kotarba (BG 125).&rdquo; (Foster 1998, S. 75)
+> &bdquo;Gf. Aplb. *Kotirbov- ‚Ort, wo es Faulbäume gibt’, zu aplb. *kotirba > *koterba, vgl. p. kocierba, kocierpka ‚Faulbaum’, zu p. cierpnąć, ursl. *tƅrp-něti ‚leiden; urspr. erstarren, kribbeln’. Auch dieses App. mit dial. Unterschiedlicher Wortbildung ist isoliert, vgl. č. Dial. trpka, trpula, trpiška ‚eine Sorte von herben, bitteren Birnen’, nso. Póśerpina ‚Faulbaum’, ukr. dial. koćerpka, koćirba, koćuba ‚dass.’ (SEJP 2, 316f.). Mit diesem Appelativum gebildete VglN wurden nicht gefunden&rdquo; (Foster 1998, S. 75).
+
+Eine weitere (laienhafte) Interpretation findet sich in der Ortschronik von Katerbow, die mir als Abschrift von einer Persoon aus Katerbow zur Verfügung gestellt wurde. Die Chronik wurde nach Aufzeichnungen von Herrn Knöllner in den Jahren zwischen ca. 1930 bis 1945 geschrieben; Der Quellennachweis liegt laut Knöllner der Originalchronik bei, deren Verbleib allerdings unbekannt ist.
+
+> Es soll ein slawischer Name sein, der soviel wie 'Raufplatz' bedeutet. Katerbow liegt an einem wichtigen Übergang zwischen dem Temnitz- und Klappgrabental und in den ältesten Zeiten mag in diesen Gegenden weidlich gerauft worden sein. Hat doch vom 9. bis 13. Jahrhundert ein steter Grenzkrieg zwischen Deutschen und Wenden stattgefunden und &bdquo;Das Gebiet von endlosen Fehden zwischen dem Grafen, Raufrittern, Städten und anderen feindlichen Parteien wild durchwogt gewesen&rdquo; Die Sage von der Riesenschlacht bei Netzeband weist wahrscheinlich auch auf jene Vorgänge hin, die sich in früherer Zeit hier abgespielt haben. Das ehemals sehr sumpfige Temnitztal, dessen schmalste Verbindung sich zwischen der heutigen Katerbower Mühle und dem Netzebander Dandkrug befand, war einst eine Völkerscheide zwischen Witzen und Obotriten, und es mag hier um diesen Übergang nach damaligen Begriffen eine gewaltige Völkerschlacht getobt haben.
+> Nach einer anderen Leseart soll der Name aus “Katka” (eine Tracht Schläge) und  (“terebljuß”) gerauft oder gerittelt entstanden sein.
+> Andererseit weist man auf die Zusammensetzung aus den deutschen Wörtern “Katen (Hütte) und “Bau” hin.
+
 ## Literatur
 Reinhard E. Fischer (2005): Die Ortsnamen der Länder Brandenburg und Berlin. Alter – Herkunft – Bedeutung. be.bra Wiss.-Verlag, Berlin, 2005, ISBN: 978-3-937233-30-7.
+
+Elzbieta Foster (1998): Brandenburgisches Namenbuch. Teil 11: Die Ortsnamen des Landes Ruppin. Mit einem siedlungsgeschichtlichen Beitrag von Christa Plate
 
 Wilhelm Hammer (1895): Ortsnamen der Provinz Brandenburg. II. Teil.. R. Gaertners Verlagsbuchhandlung, Berlin, 1895.
