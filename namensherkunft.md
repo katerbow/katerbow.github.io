@@ -92,17 +92,6 @@ Eine weitere (laienhafte) Interpretation der Bedeutung des Ortsnamens *Katerbow*
   - Ludwig Otto Sigismund († 1787) 
   - Otto Heinrich
 
-## Weitere Quellen
-- [Neues preußische Adelslexikon](http://books.google.de/books?id=G9kEAAAAIAAJ&printsec=frontcover&dq=Neues+preu%C3%9Fische+Adelslexikon,+1836&hl=de&sa=X&ei=Vg_TUOW2F8KstAatsoHoDg&ved=0CD8Q6AEwAA#v=onepage&q=Katerbow&f=false), 1836, S. 111
-- Friedrich Wilhelm August Bratring (1805): [Statistisch-topographische Beschreibung der gesammten Mark Brandenburg](http://books.google.de/books?id=TAk_AAAAcAAJ&pg=PA46&lpg=PA46&dq=Bratring+Teil+2+Brandenburg+caterbau&source=bl&ots=FLA1Kjhoum&sig=AfPATa3Sw4EDk1LeK4iaZ4m4r1s&hl=de&sa=X&ei=ziDTUOv9N8THswaRroB4&ved=0CDEQ6AEwAA#v=onepage&q=caterbau&f=false): Für Statistiker, Geschäftsmänner, bes. Für Kameralisten. Die Mittelmark und Ukermark, Band 2
-- Friedrich Wilhelm August Bratring (1799): [Die Grafschaft Ruppin in historischer, statistischer und geographischer Hinsicht](http://books.google.de/books?id=edQAAAAAcAAJ&pg=PA576&lpg=PA576&dq=Katerbow&source=bl&ots=GX36qx_K9g&sig=6lMzHZB_AZr1n3jGfkRnD6OMKo8&hl=de&sa=X&ei=dhTTUI3XI5HHtAbpiIHgDw&sqi=2&ved=0CGUQ6AEwCQ#v=onepage&q&f=false): Ein Beitrag zur Kunde der Mark Brandenburg
-- Genealogisches Reichs- und Staats-Handbuch, 1811, I, 801, 802
-- Eickstedts Beiträge zu einem neueren Landbuch der Marken Brandenburg, Seite 500
-- Hand-Matrikel der auf Kreis- und Landtagen vertretenen Rittergüter, 1857, Seite 71
-- Gothaisches Genealogisches Taschenbuch der Uradeligen Häuser, 1903, 778
-- Handbuch des Grundbesitzes im Deutschen Reiche I, I, 1903, 244
-- Landwirtschaftliches Adreßbuch der Rittergüter, Güter und Höfe der Provinz Brandenburg 1929, 100
-
 ## Friedensjahre von 1795 bis 1806
 Theodor Fontane erwähnt in seinen “Wanderungen durch die Mark Brandenburg” im Abschnitt Nr. 34 über das Regiment Prinz Ferdinand in der Ruppiner Garnison, dass die Hauptvorkommnisse während der Friedensjahre von 1795 bis 1806 die Desertionen waren. In diesem Zusammenhang lag hinter Katerbow die Freiheit der Deserteure:
 
@@ -117,11 +106,16 @@ In seiner statistisch-topographischen Beschreibung der gesammten Mark Brandenbur
 
 Neuere Einwohnerzahlen sind über das [Orts- und Gemeindeverzeichnis Brandenburg](http://www.geobasis-bb.de/) durch die Landesvermessung und Geobasisinformation Brandenburg zugänglich.
 
-# Literatur
-Friedrich Wilhelm August Bratring (1799): [Die Grafschaft Ruppin in historischer, statistischer und geographischer Hinsicht: Ein Beitrag zur Kunde der Mark Brandenburg](http://books.google.de/books?id=edQAAAAAcAAJ&pg=PA576&lpg=PA576&dq=Katerbow&source=bl&ots=GX36qx_K9g&sig=6lMzHZB_AZr1n3jGfkRnD6OMKo8&hl=de&sa=X&ei=dhTTUI3XI5HHtAbpiIHgDw&sqi=2&ved=0CGUQ6AEwCQ#v=onepage&q&f=false).
-
-Reinhard E. Fischer (2005): Die Ortsnamen der Länder Brandenburg und Berlin. Alter – Herkunft – Bedeutung. be.bra Wiss.-Verlag, Berlin, 2005, ISBN: 978-3-937233-30-7.
-
-Elzbieta Foster (1998): Brandenburgisches Namenbuch. Teil 11: Die Ortsnamen des Landes Ruppin. Mit einem siedlungsgeschichtlichen Beitrag von Christa Plate
-
-Wilhelm Hammer (1895): Ortsnamen der Provinz Brandenburg. II. Teil.. R. Gaertners Verlagsbuchhandlung, Berlin, 1895.
+# Literatur und weitere Quellen
+- Friedrich Wilhelm August **Bratring** (1799): [Die Grafschaft Ruppin in historischer, statistischer und geographischer Hinsicht](http://books.google.de/books?id=edQAAAAAcAAJ&pg=PA576&lpg=PA576&dq=Katerbow&source=bl&ots=GX36qx_K9g&sig=6lMzHZB_AZr1n3jGfkRnD6OMKo8&hl=de&sa=X&ei=dhTTUI3XI5HHtAbpiIHgDw&sqi=2&ved=0CGUQ6AEwCQ#v=onepage&q&f=false): Ein Beitrag zur Kunde der Mark Brandenburg.
+- Friedrich Wilhelm August **Bratring** (1805): [Statistisch-topographische Beschreibung der gesammten Mark Brandenburg](http://books.google.de/books?id=TAk_AAAAcAAJ&pg=PA46&lpg=PA46&dq=Bratring+Teil+2+Brandenburg+caterbau&source=bl&ots=FLA1Kjhoum&sig=AfPATa3Sw4EDk1LeK4iaZ4m4r1s&hl=de&sa=X&ei=ziDTUOv9N8THswaRroB4&ved=0CDEQ6AEwAA#v=onepage&q=caterbau&f=false): Für Statistiker, Geschäftsmänner, bes. Für Kameralisten. Die Mittelmark und Ukermark, Band 2
+- **Eickstedts** Beiträge zu einem neueren Landbuch der Marken Brandenburg, Seite 500
+- Reinhard E. **Fischer** (2005): Die Ortsnamen der Länder Brandenburg und Berlin. Alter – Herkunft – Bedeutung. be.bra Wiss.-Verlag, Berlin, 2005, ISBN: 978-3-937233-30-7.
+- Elzbieta **Foster** (1998): Brandenburgisches Namenbuch. Teil 11: Die Ortsnamen des Landes Ruppin. Mit einem siedlungsgeschichtlichen Beitrag von Christa Plate
+- Genealogisches Reichs- und Staats-Handbuch, 1811, I, 801, 802
+- Wilhelm **Hammer** (1895): Ortsnamen der Provinz Brandenburg. II. Teil.. R. Gaertners Verlagsbuchhandlung, Berlin, 1895.
+- [Neues preußische Adelslexikon](http://books.google.de/books?id=G9kEAAAAIAAJ&printsec=frontcover&dq=Neues+preu%C3%9Fische+Adelslexikon,+1836&hl=de&sa=X&ei=Vg_TUOW2F8KstAatsoHoDg&ved=0CD8Q6AEwAA#v=onepage&q=Katerbow&f=false), 1836, S. 111
+- Hand-Matrikel der auf Kreis- und Landtagen vertretenen Rittergüter, 1857, Seite 71
+- Gothaisches Genealogisches Taschenbuch der Uradeligen Häuser, 1903, 778
+- Handbuch des Grundbesitzes im Deutschen Reiche I, I, 1903, 244
+- Landwirtschaftliches Adreßbuch der Rittergüter, Güter und Höfe der Provinz Brandenburg 1929, 100
