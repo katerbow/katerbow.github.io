@@ -72,7 +72,42 @@ Eine weitere (laienhafte) Interpretation der Bedeutung des Ortsnamens *Katerbow*
 > - Nach einer anderen Leseart soll der Name aus “Katka” (eine Tracht Schläge) und  (“terebljuß”) gerauft oder gerittelt entstanden sein.
 > - Andererseit weist man auf die Zusammensetzung aus den deutschen Wörtern “Katen (Hütte) und “Bau” hin.
 
-## Literatur
+# Das Rittergut Katerbow
+Über die Historie des Rittergutes Katerbow berichtet Friedrich Wilhelm August Bratring in seinem 1799 erschienen Buch [Die Grafschaft Ruppin in historischer, statistischer und geographischer Hinsicht: Ein Beitrag zur Kunde der Mark Brandenburg](http://books.google.de/books?id=edQAAAAAcAAJ&pg=PA576&lpg=PA576&dq=Katerbow&source=bl&ots=GX36qx_K9g&sig=6lMzHZB_AZr1n3jGfkRnD6OMKo8&hl=de&sa=X&ei=dhTTUI3XI5HHtAbpiIHgDw&sqi=2&ved=0CGUQ6AEwCQ#v=onepage&q&f=false). Daraus nachfolgend der Paragraph 15, S. 576ff.:
+
+> Katerbow, in den Urkunden Caterbo, Katerbu, gehörte im 15ten Jahrhundert mit der Gerichtsbarkeit und dem Kirchlein den Grafen zu Ruppin, und kam nach ihrem Absterben an den Churfürsten. Das Rittergut gehörte denen von Krusemark, darauf denen von Rohr zu Netzband, welche es 1654, mit der halben wüsten Feldmark Kemnitz, der Mühle auf der Temnitz und 2 Hüfnern Diensten, an den Churfürsten gegen ein Gut in Ganzer vertauschten. Der Churfürst vertauschte aber das Gut und ganze Dorf nach einigen Wochen wieder an Adam Friedrich von Falkenberg gegen Beets. Die ganze Besitzung ward damals 7500 Rthlr. gewürdigt. Die von Falkenberg blieben davon bis um die Mitte dieses Jahrhunderts Besitzer, da sie das Gut und Dorf den Grafen von Schwerin zu Walsleben überließen.
+
+## Chronologische Reihenfolge der Besitzer des Rittergutes Katerbow
+- 15. Jhd. Grafen von Ruppin
+- von Krusemark
+- von Hacke
+- bis 1654 von Rohr
+  - Kaspar Friedrich († 1676)
+- Adam Friedrich von Falkenberg bis ~1750
+- Von 1787 bis 1929: Grafen von Schwerin (zu Walsleben)
+  - Ludwig (* 1756)
+  - Ludwig Otto Sigismund († 1787) 
+  - Otto Heinrich
+
+## Weitere Quellen
+- [Neues preußische Adelslexikon](http://books.google.de/books?id=G9kEAAAAIAAJ&printsec=frontcover&dq=Neues+preu%C3%9Fische+Adelslexikon,+1836&hl=de&sa=X&ei=Vg_TUOW2F8KstAatsoHoDg&ved=0CD8Q6AEwAA#v=onepage&q=Katerbow&f=false), 1836, S. 111
+- Friedrich Wilhelm August Bratring (1805): [Statistisch-topographische Beschreibung der gesammten Mark Brandenburg](http://books.google.de/books?id=TAk_AAAAcAAJ&pg=PA46&lpg=PA46&dq=Bratring+Teil+2+Brandenburg+caterbau&source=bl&ots=FLA1Kjhoum&sig=AfPATa3Sw4EDk1LeK4iaZ4m4r1s&hl=de&sa=X&ei=ziDTUOv9N8THswaRroB4&ved=0CDEQ6AEwAA#v=onepage&q=caterbau&f=false): Für Statistiker, Geschäftsmänner, bes. Für Kameralisten. Die Mittelmark und Ukermark, Band 2
+- Friedrich Wilhelm August Bratring (1799): [Die Grafschaft Ruppin in historischer, statistischer und geographischer Hinsicht](http://books.google.de/books?id=edQAAAAAcAAJ&pg=PA576&lpg=PA576&dq=Katerbow&source=bl&ots=GX36qx_K9g&sig=6lMzHZB_AZr1n3jGfkRnD6OMKo8&hl=de&sa=X&ei=dhTTUI3XI5HHtAbpiIHgDw&sqi=2&ved=0CGUQ6AEwCQ#v=onepage&q&f=false): Ein Beitrag zur Kunde der Mark Brandenburg
+- Genealogisches Reichs- und Staats-Handbuch, 1811, I, 801, 802
+- Eickstedts Beiträge zu einem neueren Landbuch der Marken Brandenburg, Seite 500
+- Hand-Matrikel der auf Kreis- und Landtagen vertretenen Rittergüter, 1857, Seite 71
+- Gothaisches Genealogisches Taschenbuch der Uradeligen Häuser, 1903, 778
+- Handbuch des Grundbesitzes im Deutschen Reiche I, I, 1903, 244
+- Landwirtschaftliches Adreßbuch der Rittergüter, Güter und Höfe der Provinz Brandenburg 1929, 100
+
+## Friedensjahre von 1795 bis 1806
+Theodor Fontane erwähnt in seinen “Wanderungen durch die Mark Brandenburg” im Abschnitt Nr. 34 über das Regiment Prinz Ferdinand in der Ruppiner Garnison, dass die Hauptvorkommnisse während der Friedensjahre von 1795 bis 1806 die Desertionen waren. In diesem Zusammenhang lag hinter Katerbow die Freiheit der Deserteure:
+
+> Die Hauptvorkommnisse des Ruppiner wie jedes damaligen Garnisonslebens waren die Desertionen. Die ganze Bevölkerung, auch die der Nachbardörfer, wurde dabei in Mitleidenschaft gezogen. Ruppin erwies sich für etwaige Fluchtversuche sehr günstig, da mehrere mecklenburgische Gebietsteile derartig eingesprenkelt im Preußischen lagen und noch liegen, daß der Weg bis beispielsweise zur Enklave Netzeband hin kaum zwei Meilen betrug. Netzeband war gleichbedeutend mit Freiheit. In vielen hundert, um nicht zu sagen tausend Herzen hat sich damals alles Denken und Wünschen um die Frage gedreht: werde ich Netzeband erreichen oder nicht? Und alles, was sich nur ersinnen ließ, um das Desertieren unmöglich zu machen, ward infolge davon angewandt. Das Hauptmittel hieß Verheiratung. Der Arm der Frau hielt fester als der Arm des Gesetzes. Aber nicht jeder wollte heiraten. Da galt es denn andere Sicherheitsmaßregeln ausfindig zu machen. Nicht nur durchstreiften Patrouillen die Stadt während der Nacht, sondern auch Unteroffiziere gingen von Haus zu Haus und riefen die in Bürgerquartier liegenden Soldaten an, um sich zu überzeugen, daß sie noch da seien Wurde aus diesem oder jenem Grunde dem Anruf nicht geantwortet, so blieb nichts anderes übrig, als den Wirt zu wecken und an die einzelnen Schlafstellen heranzutreten. Erwiesen sich aber all diese Mittel umsonst und war es dem einen oder anderen nichtsdestoweniger gelungen zu entkommen, so ward eine Kanone, die draußen am Wall stand, mehrere Male abgefeuert. Man konnte die Schüsse in **Katerbow**, einem dicht vor Netzeband gelegenen preußischen Dorfe, hören. Was Friedrich der Große von ganz Preußen gesagt hat, »es müsse immer en vedette sein«, das galt doppelt und dreifach von **Katerbow**. An **Katerbow** hing viel. Es war für den Flüchtling, die »letzte Gefahr«, und erst wenn er diese glücklich hinter sich hatte, war er frei. In Ruppin selbst aber ließ man es nicht bei den Alarmschüssen bewenden, die Deserteurglocke auf der Klosterkirche wurde geläutet, und entdeckte man die Stelle, wo der Entronnene über die Mauer gestiegen war, so verfielen die beiden zunächststehenden Schildwachen ebenfalls der Strafe des Gassenlaufens.
+
+
+
+# Literatur
 Friedrich Wilhelm August Bratring (1799): [Die Grafschaft Ruppin in historischer, statistischer und geographischer Hinsicht: Ein Beitrag zur Kunde der Mark Brandenburg](http://books.google.de/books?id=edQAAAAAcAAJ&pg=PA576&lpg=PA576&dq=Katerbow&source=bl&ots=GX36qx_K9g&sig=6lMzHZB_AZr1n3jGfkRnD6OMKo8&hl=de&sa=X&ei=dhTTUI3XI5HHtAbpiIHgDw&sqi=2&ved=0CGUQ6AEwCQ#v=onepage&q&f=false).
 
 Reinhard E. Fischer (2005): Die Ortsnamen der Länder Brandenburg und Berlin. Alter – Herkunft – Bedeutung. be.bra Wiss.-Verlag, Berlin, 2005, ISBN: 978-3-937233-30-7.
